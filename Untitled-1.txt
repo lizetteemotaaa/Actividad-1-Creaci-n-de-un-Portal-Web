@@ -1,0 +1,7 @@
+/Taylor
+    /images
+        taylor_swift_1.jpg
+        taylor_swift_2.jpg
+    index.html
+    styles.css
+    scripts.js
